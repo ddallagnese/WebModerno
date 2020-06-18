@@ -1,0 +1,6 @@
+Iniciar MongoDB
+mongod --dbpath=/Users/Dallagnese/data/db
+
+Iniciar Postgres
+- Abrir o postgres.app na pasta de aplicativos
+
